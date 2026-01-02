@@ -20,7 +20,7 @@
             "text": "Welcome to our store",
             "text_alignment": "center",
             "color_scheme": "background-1",
-            "link": ""
+            "link": "shopify://pages/contact"
           }
         }
       },
@@ -28,6 +28,7 @@
         "announcement-bar-0"
       ],
       "disabled": true,
+      "custom_css": [],
       "settings": {}
     },
     "header": {
